@@ -20,13 +20,14 @@ A thrilling SFML-based 2D grid survival game where you outmaneuver enemies, capt
 
 Main Menu 
 ![menu](https://github.com/user-attachments/assets/8fa73b93-7ecb-4b3f-ac81-946a6f766091)
-
+Press 1,2 or 3 to continue 
 
 Gameplay 
 ![gameboard](https://github.com/user-attachments/assets/55750180-1bc3-457f-862c-5c8fa073b70b)
 
 Game Over 
 ![gameover](https://github.com/user-attachments/assets/0a4e689f-5ff7-43ed-b827-06e5279dc707)
+Press Escape to return to menu.
 
 Victory 
 ![won](https://github.com/user-attachments/assets/58fde276-0320-4aca-8f53-82d7a7a4e4b8)
