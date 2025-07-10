@@ -1,0 +1,3 @@
+/home/moana777/Desktop/09 Xonix/build/CMakeFiles/xonix.dir
+/home/moana777/Desktop/09 Xonix/build/CMakeFiles/edit_cache.dir
+/home/moana777/Desktop/09 Xonix/build/CMakeFiles/rebuild_cache.dir
